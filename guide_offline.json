@@ -1,0 +1,80 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Info",
+      "image": "file:///android_asset/category/category.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/category/category2.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Tips & Trick",
+      "image": "file:///android_asset/category/category3.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Source Code",
+      "image": "file:///android_asset/category/category4.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": "1",
+      "name_category": "Tutorial Tulisan",
+      "title": "Mengenal apa itu tap coin",
+      "type_file": "HTML",
+      "image": "https://i0.wp.com/mediasekitar.com/wp-content/uploads/2022/05/Aplikasi-Tap-Coin-Apk-Penghasil-Uang.png",
+      "description": "Mengenal tap coin adalah sebuah aplikasi penghasil uang",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": "2",
+      "name_category": "Tutorial Tulisan",
+      "title": "Bagaimana tap coin dapat Menghasilkan Uang",
+      "type_file": "HTML",
+      "image": "https://i0.wp.com/mediasekitar.com/wp-content/uploads/2022/05/Tap-Coin-Apk.png",
+      "description": "Bagaimana tap coin Menghasilkan Uang Dengan Membaca",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": "3",
+      "name_category": "Tutorial Tulisan",
+      "title": "Trik dan Tips pada tap coin",
+      "type_file": "HTML",
+      "image": "https://i.ytimg.com/vi/uu8lD_nchp0/maxresdefault.jpg",
+      "description": "Terdapat 5 Trik dan Tips untuk mendapatkan uang di tap coin",
+      "link": "file:///android_asset/guide/guide3.html"
+    },
+    {
+      "id": "4",
+      "name_category": "Tutorial Vidio",
+      "title": "Trik dan Tips tap coin secara vidio",
+      "type_file": "YOUTUBE",
+      "image": "https://i0.wp.com/mediasekitar.com/wp-content/uploads/2022/05/Aplikasi-Tap-Coin-Apk-Penghasil-Uang.png",
+      "description": "Terdapat 5 Trik dan Tips untuk mendapatkan uang di tap coin Dengen vidio",
+      "link": "uu8lD_nchp0"
+    },
+    {
+      "id": "5",
+      "name_category": "Tutorial Vidio",
+      "title": "Bagaimana tap coin dapat Menghasilkan Uang",
+      "type_file": "YOUTUBE",
+      "image": "https://i0.wp.com/mediasekitar.com/wp-content/uploads/2022/05/Tap-Coin-Apk.png",
+      "description": "Bagaimana tap coin Menghasilkan Uang Dengan Membaca",
+      "link": "uu8lD_nchp0"
+    },
+    {
+      "id": "6",
+      "name_category": "Tutorial Vidio",
+      "title": "Mengenal Apa itu tap coin",
+      "type_file": "YOUTUBE",
+      "image": "https://i.ytimg.com/vi/uu8lD_nchp0/maxresdefault.jpg",
+      "description": "Mengenal tap coin adalah sebuah aplikasi penghasil uang",
+      "link": "uu8lD_nchp0"
+    }
+  ]
+}
